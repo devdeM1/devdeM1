@@ -5,6 +5,10 @@
 <h3>GitHub Stats & Top Languages</h3>
 <a href="https://github.com/devdeM1">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devdeM1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&text_color=C2CBD3&title_color=ABCEE2&icon_color=ABCEE2" width="400"/>
+</a>
+<a href="https://github.com/devdeM1">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeM1&hide_title=true&hide_border=true&theme=react&text_color=C2CBD3&&title_color=ABCEE2&layout=compact&langs_count=8" width="360"/>
+</a>
 
 <br><br>
 
