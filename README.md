@@ -15,7 +15,5 @@
 <h3>Tech Stack</h3>
 
 ### <img height="40" src="img/python.jpg" align="center" title="Python">&nbsp;&nbsp;&nbsp;<img height="40" src="img/selenium.jpg" align="center" title="Selenium">&nbsp;&nbsp;&nbsp;<img height="40" src="img/pytest.jpg" align="center" title="Pytest">&nbsp;&nbsp;&nbsp;<img height="40" src="img/jira.jpg" align="center" title="JIRA">
-<br><br>
 ### <img height="40" src="img/jenkins.jpg" align="center" title="Jenkins">&nbsp;&nbsp;&nbsp;<img height="40" src="img/git_actions.jpg" align="center" title="GitHub Actions">&nbsp;&nbsp;&nbsp;<img height="40" src="img/postgresql.jpg" align="center" title="PostgreSQL">&nbsp;&nbsp;&nbsp;<img height="40" src="img/mongodb.jpg" align="center" title="MongoDB">
-<br><br>
 ### <img height="44" src="img/postman.jpg" align="center" title="Postman">&nbsp;&nbsp;&nbsp;<img height="44" src="img/docker.jpg" align="center" title="Docker">&nbsp;&nbsp;
